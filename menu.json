@@ -1,0 +1,44 @@
+{
+    "menuItems": [
+        {
+            "id": 1,
+            "name": "Third Pounder",
+            "price": 7.99
+        },
+        {
+            "id": 2,
+            "name": "Big Wac",
+            "price": 6.99
+        },
+        {
+            "id": 3,
+            "name": "Hamburger",
+            "price": 4.99
+        },
+        {
+            "id": 4,
+            "name": "Cheese Burger",
+            "price": 5.99
+        },
+        {
+            "id": 5,
+            "name": "Fries",
+            "price": 2.99
+        },
+        {
+            "id": 6,
+            "name": "Nuggies",
+            "price": 2.99
+        },
+        {
+            "id": 7,
+            "name": "Soda",
+            "price": 1.99
+        }, 
+        {
+            "id": 8,
+            "name": "Shake",
+            "price": 3.99
+        }
+    ]
+}
